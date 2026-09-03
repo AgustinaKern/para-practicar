@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+
+ <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+             <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Agustina Kern</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    
+        <text>
+            <body>
+<pb n="16r"/>
+
+ 
+
+
+<p><pb n="16v"/> El número de vecinos de esta ciudad y su ejido, aseguran llega a mil. Los curas anteriores al actual no han formado padrones, enfermedad que casi cunde a todo el <placeName key="ciudad">Tucumán</placeName>. El año de 1770 nacieron en la ciudad y todo su ejido 170 y murieron 70, prueba de la sanidad del país y también de la poca fecundidad de las mujeres, si fijamos el número de un mil vecinos. Lo más cierto es que los casados no pasarán de trescientos, y que el crecido número que regulan se compone de muchos desertores de mar y tierra y algunos polizones, que a título de la abundancia de comestibles ponen pulperías con muy poco dinero para encubrir sus poltronerías y algunos contrabandos, que hoy día, por el sumo celo de los gobernadores actuales de Buenos Aires y Montevideo, no son muy frecuentes.</p>
+
+<p>También se debe rebajar del referido número de vecinos muchos holgazanes criollos, a quienes con grandísima propiedad llaman gauderios, de quienes trataré brevemente. En esta ciudad y su dilatada campaña no hay más que un cura, cuyo beneficio le rinde al año 1500 pesos, tiene un ayudante y cinco sacerdotes avecindados, y no goza sínodo por el rey. Hay un convento de San Francisco, con ocho sacerdotes, tres legos y tres donados, que se mantienen de una estanzuela con un rebaño de ovejas y un corto número de vacas, sin cuyo arbitrio no pudieran subsistir en un país tan abundante, en que se da gratuitamente a los ociosos pan,   —31→   carne y pescado con abundancia, por lo que creo que los productos de la estancia no tendrán otro destino que el del templo y algunos extraordinarios que no se dan de limosna. </p> 
+
+</body>
+</text>
+</TEI> 
